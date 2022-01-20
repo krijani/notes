@@ -1,0 +1,55 @@
+#+title: Determination of Income and Employment
+
+* Ceteris Peribus
+- /Ceteris peribus/ is a Latin term which means "All other factors remaining constant"
+- Macroeconomics consists of different models which are used to explain changes in an economy but because the economy itself is influenced by many different variables it becomes difficult for economists to take consideration of all these variables
+- Thus when talking about one perticular variable economists consider other variables to be constant which is called as ceteris peribus.
+  
+* Kenyes Economics
+The macroeconomics of Kenyes is based on  [[file:General Theory Kenyes.org][General Theory]] which is also the basis of the entire AD/AS concept
+
+** Ex post and Ex ante values
+- Ex post values are actuall accounting values, eg: Consumption = 200 utils or 10$. This is a cardinal value and represents the consumption done in real life
+- Ex ante values on the other hand are values which the producers plan and  approximate
+- The values that we will be using in consequtive topics will be Ex Ante values
+
+* Consumption Function
+- A consumption function provides the relation between consumption and income
+- The function assumes that the changes in consumption are at a constant rate with the changes in Income
+- But it also takes into acccount that there is consumption when there is no income, it is the minimum ammount of consumption a society needs to servive and thus is called as *autonomous* consumption which is denoted by $\bar{C}$
+- Thus the function can be described as :
+
+  $$
+  C = \bar{C} + cY
+  $$
+
+- In this function we can see that
+  - C = Consumption
+
+  - $\bar{C}$ = Autonomous Consumption
+
+  - cY = Induced Consumption
+- The expression "cY" represents the dependence of consumption on income "Y"
+  - Here "c" refers to MPC (Marginal Propensity to Consume)
+
+** MPC
+- MPC - Marginal Propensity to Consume and it refers to the change in Consumption when there is a change in Income
+- It thus is represented by
+
+  $$
+  MPC = \frac{\delta C}{\delta Y}
+  $$
+
+  - Where the numerator represents the change in Consumption
+
+  - And denominator represents the change of income "Y"
+- *MPC can either be 0 in value or 1 but cannot exceed 1*
+  - It can be 0 because a consumer may choose to put all of his income in savings and keep the consumption constant
+
+  - It can also be 1 because a consumer may choose to put all of his income in the consumption
+
+  - It cannot exceed because one cannot consume more than what he can afford
+- *For Example*
+  - If the MPC of a state is $C = 100 + 0.7Y$
+
+  - This it means that whenever there is an increase of 10 $ in the income of the state, it leads to a 0.7 increase in consumption which would be 7 $. Thus Consumption would be =  100 + 0.7 * 10 = 107

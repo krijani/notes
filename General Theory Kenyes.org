@@ -1,0 +1,31 @@
+#+title: General Theory of Keynes
+
+* The General Theory of Keynes
+- The General Theory of Keynes was created by John Keynes during the Great Depression and was mentioned in His book the General Theory of Employment, Interest and Money
+
+** Keynesian Ideas and Classical Economics
+- Classical Economics suggests that there are 2 reasons as to why someone may be unemployed.
+  
+  1. It may be voluntary which means one is unemployment because he does not want to work
+  2. It may be based on friction which means one may be removed from his place of employment due to his friction with the employers
+     
+- But this idea was flawed in the respect of the Great Depression where there was way less employment in the most powerful countries of the world and thus Keynes developed his own idea which talks about *involuntary unemployment*
+
+*** Objections to Classical Ideas
+- The classical theory assumed that the wage of the labour was the wage-bargain (which means the wage that has been agreed to be payable by the employer to the employee)
+
+- But the problem here is
+  1. That the wage bargain by the labour is of money wage (monetary cardinal value of wage) rather than real wage (which is wage that takes inflation into consideration)
+  2. Now because the wage bargain = money-wage and wage bargain = income of the labor, classical economists would have to assume that the prices in the economy also change as per changes in wage. This would thus also mean that the real wage and the unemployment levels are the same (This is because if price change = wage change then inflation = increase in wage meaning that real wage = money wage = price level = inflation/deflation rate)
+
+- Many scholars have said that the classical economists have been saved in by the QTM (Quantity Theory of Money) pertaining to the 1st critique (wage bargain is of money wage and not real wage). This is because QTM states that the price level of the economy will remain *directly proportional* to the money supply of the economy. Thus if money wages increase (leading to increase in money supply) the price will also increase thus the critique of Keynes on this matter is incorrect 
+
+** Keynesian Unemployment
+
+*** Saving and Investment
+- Saving is defined as the money not spent on *consumption*, and thus consumption has been defined income that is allocated to expenditure of *non-durable* goods. Consumption is not spending on durable goods
+- Thus according to Keynes there is unemployment when the entrepreneur incentive to invest is not up to mark with the societies propensity to save
+  - Propensity here refers to Demand
+- The incentive to invest is based on very many factors like the physical circumstances of production and the future desire for profitability. But when these things are as given (constant /ceteris peribus/) the only thing that matters is "r" which Keynes calls rate of interest or /marginal efficiency of capital/
+  - *Marginal Efficiency of Capital* refers to the "net rate of return that is expected from the purchase of additional capital. It is calculated as the profit that a firm is expected to earn considering the cost of inputs and the depreciation of capital. "
+  - Thus investment is dependent on MEC, because if the producer does not expect profitability to incur from the investment that he is doing then the incentive of investment will reduce

@@ -1,0 +1,89 @@
+#+title: Current Affairs Weekly Roundup 3
+
+* Topics
+- INS Vikrant begins trial
+- World Trading Organization
+- Indian State of Forests
+
+* INS Vikrant
+
+** What is Vikrant
+- It is the *first indigenous aircraft carrier (Vikrant 2)*
+- INS Vikrant 1 was India's 1st aircraft carrier and was decommissioned
+- Vikrant 1 was developed by the UK in WW2 and was inducted in 1962
+  - It was decommissioned in 1997
+  - Vikrant 1 was called *HMS Hercules*
+
+*** What are the other AC India has
+- INS Viraat
+  - Also developed by *UK*
+  - Commissioned in *1987*
+  - DC in *2017*
+  - Called earlier as *HMS Hermes*
+    
+- INS Vikramaditya
+  - Developed by *USSR*
+  - Commissioned in *2013*
+  - Currently the only available AC in India
+  - It was called as *Baku/Admiral Gorshkov*
+
+- INS Vikrant 2 (currently under trials)
+  - Began development in *Cochin Shipyard Ltd* (PSU)
+  - Made in India
+  - To be commissioned in *August 2022*
+
+* WTO
+- It is made to develop balance in the International Trade sector
+- It is in news because of the recent changes in Chinas economic status where the state has declared itself to be a *developing state* which is different from the position it previously held, which is that of a developed state
+
+** Domestic Support and Tariffs
+- Domestic Support refers to the subsidies that the government provides in order to reduce the cost of production and thus inducing producers to produce more goods as it provides them a wider profit margin
+- Tariffs on the other hand are trade barriers that are put up when a country does not wish to allow importers to import cheap products and thus destroy the domestic economy
+
+** Timeline
+- 1944: Bretton Woods Conference (lead to creation of WB and IMF)
+- 1948: General Agreement of Trade and Tariffs
+- 1994: Marrakesh Agreement
+- 1995: WTO
+
+** GATT, GATS, TRIPS
+- The World Bank consists of 3 main agreements GATT, GATS and TRIPS
+- GATT is the General Agreement on Trade and Tariffs (tangible goods)
+- GATS is the General Agreement on Trade and Services (intangible goods)
+- TRIPS is the Trade related aspects of Intellectual Property Rights
+
+** Advantages of a Developed Country
+- The developing countries are provided several perks in the WTO because of the fact that they do not have very high economic growth
+- Thus some countries might want to change their status to a developing country because of these trades that might help 
+
+** India Appeals against the Sugarcane Subsidy
+- Indian government provided concessions to sugar producers which lead to a decrease in price
+- Due to this Australia and other countries came together against India and went to WTO for dispute settlement. These countries won the case
+- This judgement was based on
+  1. Agreement on Agriculture
+  2. Agreement on Subsidies and Countervailing Measures
+- The subsidies according to WTO are divided into
+  1. Green Box
+     - They refers to subsidies that lead to minimum distortion
+     - Eg: COVID, Natural Catastrophe
+  2. Amber Box
+  - Subsidies which are not allowed or contrained to a perticular level
+  - This level is 5% for Developed and 10% on Developing
+  3. Blue Box
+  - Subsidies where there is direct payment of cash
+  - Eg: MSP
+  4. Art 6.2
+     - Subsidies on infra and developement
+
+* India State of Forests Report
+- Report released by *Ministry of Education*
+- Greatest change in Telangana (+ve) and in North East states (-ve)
+- There are 3 types of Forests
+  - Dense >= 70%
+  - Moderate >= 40%
+  - Open >= 10-40 %
+- It is the first report that also mentions *tiger reserves*
+- Highest states which have gained
+  - Telangana
+  - Andra
+  - Orissa
