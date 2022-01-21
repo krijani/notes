@@ -53,3 +53,31 @@ The macroeconomics of Kenyes is based on  [[file:General Theory Kenyes.org][Gene
   - If the MPC of a state is $C = 100 + 0.7Y$
 
   - This it means that whenever there is an increase of 10 $ in the income of the state, it leads to a 0.7 increase in consumption which would be 7 $. Thus Consumption would be =  100 + 0.7 * 10 = 107
+
+* Savings Function
+- It is simply according to [[file:General Theory Kenyes.org][General Theory]] the part of income which is not engaged in consumption and investment (also considered as a form of consumption). It is thus written as
+
+  $$
+  S = Y - C
+  $$
+
+ - Which is Savings (S) = Income (Y) - Consumption (C)
+
+- Similarly when considering MPS we can say that MPS (Marginal Propensity to Save) is
+
+  $$
+  MPS = \frac{\delta S}{\delta Y}
+  $$
+
+  Similar to the Consumption function mentioned above
+
+- MPS can also be defined as $= 1 - c$ where "c" is MPC as mentioned in the consumption function
+  - This is because
+
+    $$
+    MPS = \frac{\Delta S}{\Delta Y}
+    MPS = \frac{\Delta (Y - C)}{\Delta Y}
+    MPS = \frac{\Delta Y}{\Delta Y} - \frac{\Delta C}{\Delta Y}
+    MPS = 1 - MPC
+    MPS = 1 - c
+    $$
